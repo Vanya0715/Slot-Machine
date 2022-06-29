@@ -17,8 +17,6 @@ Player gets 5 turns to play the game and become luck. After all turns are over, 
 
 ## Demo
 
-Insert gif or link to demo
-
 ![video-to-gif-converter](https://user-images.githubusercontent.com/70580401/176417876-9f421874-264c-4df4-ae31-1a0440336a88.gif)
 ## Screenshots
 
